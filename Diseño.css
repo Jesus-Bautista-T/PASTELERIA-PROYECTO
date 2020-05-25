@@ -1,1 +1,24 @@
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-image: url("IMG/header-1.jpg");
+    background-size: cover;
+  }
 
+div img{
+    display: block;
+    width: 120px;
+    height: 120px;
+    margin: auto;
+}
+div p{
+    font-size: 20pt;
+    color: white;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Handlee",cursive;
+}
